@@ -13,5 +13,8 @@ public class V_InputTypeScannerB {
         System.out.println("Sudah menikah (true/false) : ");
         boolean married = input.nextBoolean();
         System.out.println("Nama : " + name);
+        System.out.println("Umur : "+age);
+        System.out.println("Tinggi Badan : "+height);
+        System.out.println("Sudah Menikah : "+married);
     }
 }
